@@ -2,7 +2,7 @@
 
 **Une application météo simple en C++ et QML démontrant l'utilisation de Qt pour interagir avec des API REST.**  
 
-Cette application a été développée dans le cadre d'un projet informatique lorsque j'étais étudiant. Elle répondait parfaitement aux exigences, permettant ainsi de rechercher une ville et d'obtenir une prévision météo (plus ou moins précise) pour les 5 prochains jours.  
+Cette application a été développée dans le cadre d'un apprentissage personnel. Elle répondait parfaitement aux exigences, permettant ainsi de rechercher une ville et d'obtenir une prévision météo (plus ou moins précise) pour les 5 prochains jours.  
 
 ---
 
